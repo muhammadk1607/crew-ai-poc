@@ -1,4 +1,6 @@
-# Crew AI Blog Writing Workflow POC
+# Crew AI Workflow POC
+
+A bunch of POCs to test the Crew AI Workflow.
 
 ## Install
 
@@ -15,6 +17,8 @@ pip install -r requirements.txt
 
 ## Run
 
+### Blog POC
+
 ```bash
-python main.py
+python blog.py
 ```

@@ -1,4 +1,12 @@
 {
-  "words": ["pycache", "venv"],
-  "ignorePaths": [".venv", "venv", "__pycache__"]
+  "words": [
+    "crewai",
+    "pycache",
+    "venv"
+  ],
+  "ignorePaths": [
+    ".venv",
+    "venv",
+    "__pycache__"
+  ]
 }
